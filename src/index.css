@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.task-preview{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+.task-preview button{
+  height: 30px;
+  margin-left: 15px;
+}
